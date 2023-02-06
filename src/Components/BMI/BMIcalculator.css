@@ -1,0 +1,21 @@
+.main{
+    background-color: aqua;
+    padding: 2rem;
+    border-radius: 20%;
+    margin: 5% 20%;
+}
+.main button{
+    background-color: red;
+    padding: 0.5rem;
+    border-radius: 20%;
+    border: none;
+    color: aliceblue;
+    margin: 2.5rem 0px;
+    cursor: pointer;
+}
+.main input{
+    border: none;
+    border-radius: 20%;
+    margin: 0.5rem 0.5rem;
+    padding: 0.5rem;
+}

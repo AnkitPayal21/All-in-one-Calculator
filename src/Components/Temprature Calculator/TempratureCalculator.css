@@ -1,0 +1,30 @@
+.Main{
+    background-color: aqua;
+    margin: 2rem 20%;
+    padding: 2rem;
+    border-radius: 20%;
+}
+.inpt{
+    display: flex;
+}
+.inpt input{
+    padding: 1rem;
+    width: 40%;
+    border-radius: 20%;
+    border: none;
+    margin: 0 0.2rem;
+}
+.inpt  select{
+    padding: 0.8rem;
+    width: 40%;
+    border-radius: 20%;
+    border: none;
+}
+h2{
+    color: Red;
+    font-size: 30px;
+}
+h5{
+    color: blue;
+    font-size: 30px;
+}

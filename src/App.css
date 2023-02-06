@@ -1,0 +1,35 @@
+*{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.light-theme{
+    background-color: aliceblue;
+    color: black;
+}
+.dark-theme{
+    background-color: black;
+}
+
+button{
+    background-color: aquamarine;
+}
+.Main-btn{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Main-btn button{
+    padding: 1rem;
+    background-color: yellow;
+    border-radius: 20%;
+}
+.txt{
+    color: black;
+    text-decoration: none;
+}
+.appMain{
+    font-size: 60px;
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+}
