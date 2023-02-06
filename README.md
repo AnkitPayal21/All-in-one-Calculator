@@ -1,11 +1,10 @@
 # All in One Calculator
    It is a Calculator which calculates mainly 5 things : -
-                                                      
-                                                        - Normal Calculator
-                                                        - Temperature Calculator
-                                                        - Currency Calculator
-                                                        - BMI Calculator
-                                                        - Expense Calculator
+    - Normal Calculato
+    - Temperature Calculator
+    - Currency Calculator
+    - BMI Calculator
+    - Expense Calculator
                                                         
   
   # To watch live demo click below.
